@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NeilanshTriesToCode
 - 👀 I’m interested in Software and Web Development, automation, and databases.
-- I could go all night talking about include Sports, Astronomy, and Music.
-- 🌱 I’m currently learning JavaScript and HTML/CSS, and various Software Engineering processes.
+- I could go all night talking about Sports, Astronomy, and Music.
+- 🌱 I’m currently learning JavaScript HTML/CSS, and PHP, alongside various Software Engineering processes.
 - 💞️ I’m open to collaborating projects, especially those pertaining to Web Development. Also open to projects using Python and Java.
 - 📫 How to reach me: neilanshjr.@gmail.com
 
