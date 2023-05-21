@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @NeilanshTriesToCode
+- 🌐 More about me **[here](https://tinyurl.com/NeilanshRajpal)**
 - 👨‍🎓 Computer Science graduate at UBC Okanagan.
 - 👀 I’m interested in Software, Web and Frontend Development, and databases.
 - 🏀 Sports, Fitness and Space enthusiast.
